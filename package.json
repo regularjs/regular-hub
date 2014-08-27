@@ -1,0 +1,34 @@
+{
+  "name": "rehub",
+  "version": "0.0.1",
+  "author": {
+    "name": "leeluolee"
+  },
+  "description": "",
+  "license": "MIT",
+  "keywords": [
+    "rehub",
+    "regularjs"
+  ],
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/regularjs/rehub"
+  },
+  "homepage": "http://regularjs.github.io/rehub",
+  "scripts": {
+    "test": "gulp travis --phantomjs"
+  },
+  "devDependencies": {
+    "expect.js": "~0.3.1",
+    "gulp": "3.6.x",
+    "gulp-jshint": "~1.5.3",
+    "gulp-shell": "^0.2.4",
+    "gulp-webpack": "^0.3.0",
+    "gulp-mocha": "~0.4.1",
+    "gulp-uglify": "~0.2.1",
+    "gulp-util": "~2.2.14",
+    "mocha": "~1.18.2",
+    "through2": "~0.4.1"
+  }
+}
