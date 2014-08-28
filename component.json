@@ -1,7 +1,10 @@
 {
   "name": "regular-hub",
   "version": "0.0.2",
-  "main": "./hub.js",
+  "main": "hub.js",
+  "scripts": [
+    "hub.js"
+  ],
   "dependencies": {
     "regularjs/regular": "*"
   }
