@@ -34,7 +34,7 @@
       return passedAttr;
     }
 
-    function isEventName(str){
+    function getEventName(str){
       var matched = rEvent.exec(str);
       return matched && matched[1];
     }
@@ -48,7 +48,7 @@
 
     return {
       getAttrs: getAttrs,
-      isEventName: isEventName,
+      getEventName: getEventName,
       getExpression: getExpression
     }
 

@@ -109,7 +109,7 @@ var todos = [
 
 
 
-var app = new ReHub({
+var app = new Hub({
   data: {
     user: [],
     channels: [],
