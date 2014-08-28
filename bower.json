@@ -1,6 +1,6 @@
 {
   "name": "regular-hub",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "hub.js",
   "description": "Regular Component's Hub",
   "authors": "@leeluolee <87399126@163.com>",
