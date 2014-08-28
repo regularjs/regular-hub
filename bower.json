@@ -1,7 +1,7 @@
 {
-  "name": "rehub",
+  "name": "regular-hub",
   "version": "0.0.1",
-  "main": "dist/rehub.js",
+  "main": "hub.js",
   "description": "Regular Component's Hub",
   "authors": "@leeluolee <87399126@163.com>",
   "license": "MIT",
@@ -15,7 +15,7 @@
     "*.md"
   ],
   "dependencies": {
-    "regularjs": "0.2.4"
+    "regularjs": "*"
   }
 
 }

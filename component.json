@@ -1,8 +1,8 @@
 {
-  "name": "rehub",
+  "name": "regular-hub",
   "version": "0.2.4",
-  "main": "dist/rehub.js",
+  "main": "hub.js",
   "dependencies": {
-    "regularjs/regular": "0.2.4"
+    "regularjs/regular": "*"
   }
 }
